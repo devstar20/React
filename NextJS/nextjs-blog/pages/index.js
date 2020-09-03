@@ -9,10 +9,12 @@ function MyComponent(){
             <a href="/about">About</a> */}
 
             {/**This is standard react rendering in client-side */}
-            <Link href='/about'>
+            {/* <Link href='/about'>
                 <a>About</a>
-            </Link>
+            </Link> */}
+
             
+
         </div>
     )
 }
