@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link"
+// import '../style.css'
 
 function MyComponent(){
     return(
@@ -13,7 +14,7 @@ function MyComponent(){
                 <a>About</a>
             </Link> */}
 
-            
+            <a>Hello world!</a>
 
         </div>
     )
